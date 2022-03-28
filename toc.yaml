@@ -99,6 +99,7 @@ toc:
           topics:
           - /analytics-engine-cli-plugin/analytics-engine-cli-plugin-CLI_analytics_engine
           - plugins/catalogs/manage-catalogs.md
+          - plugins/cbr/context-based-restrictions.md
           - /databases-cli-plugin/databases-cli-plugin-cdb-reference
           - /cloud-functions-cli-plugin/cloud-functions-cli-plugin-functions-cli
           - /cloud-object-storage-cli-plugin/cloud-object-storage-cli-plugin-ic-cos-cli
